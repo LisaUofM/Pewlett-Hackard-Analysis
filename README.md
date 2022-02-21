@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the Analysis 
-The purpose of the analysis is to offer Pewlett Hackard a view of how many employees are nearing retirement so the company can strategize for its long-term future. An employee database was created using six csv files.
+The purpose of the analysis is to offer Pewlett Hackard a view of how many employees are nearing retirement so the company can strategize for its long-term future. An employee database was created using six csv files with varying human resource details. 
 
 ## Results 
 The analysis includes three file results from the employee database: 
